@@ -1,0 +1,17 @@
+{
+  "name": "akashic-keyboard-plugin-sample",
+  "version": "0.0.2",
+  "description": "",
+  "dependencies": {
+    "@akashic-extension/akashic-keyboard-plugin": "file:.."
+  },
+  "scripts": {
+    "start": "akashic-sandbox",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "",
+  "devDependencies": {
+    "@akashic/akashic-sandbox": "^0.28.1"
+  }
+}
