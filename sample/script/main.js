@@ -15,7 +15,7 @@ module.exports = () => {
       game.operationPluginManager.start(code);
     } else if (state === "deactive") {
       // プラグインの停止
-      game.operationPluginManager.start(code);
+      game.operationPluginManager.stop(code); // このコンテンツではシーンの切り替えが発生しないため実行されない
     }
   });
 
