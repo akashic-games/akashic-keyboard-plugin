@@ -22,7 +22,7 @@ export class KeyboardOperationPlugin implements g.OperationPlugin {
 		ArrowLeft: true,
 		ArrowUp: true,
 		ArrowRight: true,
-		ArrowBottom: true,
+		ArrowDown: true,
 		F1: true,
 		F2: true,
 		F3: true,
