@@ -1,6 +1,6 @@
 {
   "name": "@akashic-extension/akashic-keyboard-plugin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A plugin handling keyboard events easily for Akashic Engine",
   "main": "lib/index.js",
   "repository": {
