@@ -18,7 +18,7 @@ export class KeyboardOperationPlugin implements g.OperationPlugin {
 		Tab: true,
 		Backspace: true,
 		Enter: true,
-		Space: true,
+		" ": true,
 		ArrowLeft: true,
 		ArrowUp: true,
 		ArrowRight: true,
